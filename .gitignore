@@ -1,0 +1,41 @@
+# ---------------------------------------------------------------------------
+# Build output and scratch
+# ---------------------------------------------------------------------------
+dist/
+shots/
+.netlify/
+*.zip
+_prep_*.mp4
+__pycache__/
+*.pyc
+
+# ---------------------------------------------------------------------------
+# The previous client's artwork. This site was built on a cinematic engine
+# that shipped with another person's reference photography, video and
+# typography. None of it is ours to redistribute, so none of it is committed.
+#
+# Consequence worth knowing: tools/build_media.py's build_grunge() and the
+# extract_s*.py scripts read these, so those specific steps cannot be re-run
+# from a fresh clone. Everything the site actually serves is committed, and
+# the whole asset pipeline for THIS site's own material runs fine without them.
+# ---------------------------------------------------------------------------
+assets_src/_original_gireesh/
+assets_src/ref_furniture.jpg
+assets_src/ref_header.jpg
+assets_src/ref_main.jpg
+assets_src/ref_typo.jpg
+Gireesh*.mp4
+Gireesh*.mov
+Gireesh*.jpg
+Man_walking_and_smoking_cigarette_*.mp4
+Blank Screen.jpg
+Footer image.jpg
+Header.jpg
+all the dots.jpg
+main refrence.jpg
+section 2 image.jpg
+section 3 image.jpg
+section 4 image.jpg
+section 5 main refrence.jpg
+section 2 refrence video.mp4
+welcome to my world.jpg
