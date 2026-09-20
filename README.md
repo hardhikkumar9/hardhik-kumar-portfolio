@@ -1,9 +1,10 @@
-# HARDHIK KUMAR — cinematic portfolio
+# HARDHIK KUMAR — portfolio
 
 A business-analyst portfolio: five scenes, WebGL, **no framework and no build
 step** — it is served as static files.
 
-**Live:** https://hardhik-kumar-portfolio.netlify.app
+**Live:** https://hardhik-kumar-portfolio.netlify.app 
+          https://hardhikkumar9.github.io/hardhik-kumar-portfolio/
 
 Every scene runs on its own generated artwork. The copy and the timeline come
 from the CV; the twelve-panel work deck is six real projects, each linking to
